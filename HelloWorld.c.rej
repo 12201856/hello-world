@@ -1,0 +1,10 @@
+diff a/HelloWorld.c b/HelloWorld.c	(rejected hunks)
+@@ -0,0 +1,7 @@
++#include <stdio.h>
++
++int main(void)
++{
++	printf("Hello World");
++	return 0;
++}
+\ No newline at end of file
